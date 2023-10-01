@@ -1,3 +1,6 @@
+#Steve
+#23.09.29
+
 fname = input("What's first name?")
 lname = input("What's last name?")
 print(f"{fname} {lname}")
